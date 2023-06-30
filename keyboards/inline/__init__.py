@@ -1,1 +1,1 @@
-
+from . import course
